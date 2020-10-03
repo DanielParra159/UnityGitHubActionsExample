@@ -7,7 +7,7 @@ namespace Tests
         [Test]
         public void MyTestSimplePasses()
         {
-            Assert.AreEqual(2 + 2, 4);
+            Assert.AreEqual(2 + 2, 5);
         }
     }
 }
